@@ -12,5 +12,7 @@ win = pygame.display.set_mode((width, height))
 pygame.display.set_caption("Space Invaders")
 run = True
 
-figur1 = Figur()
 
+
+
+s
