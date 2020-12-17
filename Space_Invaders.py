@@ -31,7 +31,7 @@ while True:
         new_head[1] -= 1
     if key == curses.KEY_RIGHT:
         new_head[1] += 1
-
+....
 
 
 
